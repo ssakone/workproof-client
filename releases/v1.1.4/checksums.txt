@@ -1,0 +1,4 @@
+6c1a675d9c321864bae2a1a2bc220ff35c04a5d32786cf679c099ce8c3cffa7b  workproof-v1.1.4-linux-amd64.tar.gz
+5399e61c22e47db31c2f942a3dac630b1e793edb09a0bf7ef22ddd96f0146de6  workproof-v1.1.4-macos-amd64.tar.gz
+ef289e28207c11197d3390efa9caa1d83af12dc00217d659ba3c82ea5dec8d6a  workproof-v1.1.4-macos-arm64.tar.gz
+b3f265d5deabd8d0321f4e050a8d146c02f125cc2a92b9170f2d63b6900620f5  workproof-v1.1.4-windows-amd64.zip
